@@ -1,5 +1,4 @@
-{
-    
+{    
         "Job Level": 2,
         "Company Size": 3,
         "Leadership Opportunities": 0,
@@ -28,11 +27,6 @@
         "Company Reputation_Fair": 0,
         "Company Reputation_Good": 0,
         "Company Reputation_Poor": 0,
-        "Employee Recognition_High": 0,
-        "Employee Recognition_Medium": 0,
-        "Employee Recognition_Low": 0,
-        "Employee Recognition_Very High": 1,
         "Happyness": 4,
-        "Emotional_Burnout": 0
-    
+        "Emotional_Burnout": 0   
 }
