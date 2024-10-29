@@ -1,4 +1,5 @@
-{    
+[ 
+    { 
         "Job Level": 2,
         "Company Size": 3,
         "Leadership Opportunities": 0,
@@ -28,5 +29,38 @@
         "Company Reputation_Good": 0,
         "Company Reputation_Poor": 0,
         "Happyness": 4,
-        "Emotional_Burnout": 0   
-}
+        "Emotional_Burnout": 0 
+    },
+    { 
+        "Job Level": 2,
+        "Company Size": 3,
+        "Leadership Opportunities": 0,
+        "Age": 31,
+        "Gender": 1,
+        "Years at Company": 5,
+        "Monthly Income": 7000,
+        "Job Satisfaction": 3,
+        "Performance Rating": 3,
+        "Number of Promotions": 3,
+        "Overtime": 0,
+        "Distance from Home": 50,
+        "Education Level": 4,
+        "Number of Dependents": 2,
+        "Company Tenure": 50,
+        "Remote Work": 1,
+        "Innovation Opportunities": 1,
+        "Work-Life Balance_Excellent": 1,
+        "Work-Life Balance_Fair": 0,
+        "Work-Life Balance_Good": 0,
+        "Work-Life Balance_Poor": 0,
+        "Marital Status_Divorced": 0,
+        "Marital Status_Married": 1,
+        "Marital Status_Single": 0,
+        "Company Reputation_Excellent": 1,
+        "Company Reputation_Fair": 0,
+        "Company Reputation_Good": 0,
+        "Company Reputation_Poor": 0,
+        "Happyness": 4,
+        "Emotional_Burnout": 0 
+    }  
+]
