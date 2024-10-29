@@ -1,4 +1,5 @@
 {
+    
         "Job Level": 2,
         "Company Size": 3,
         "Leadership Opportunities": 0,
@@ -6,6 +7,7 @@
         "Gender": 1,
         "Years at Company": 5,
         "Monthly Income": 7000,
+        "Job Satisfaction": 3,
         "Performance Rating": 3,
         "Number of Promotions": 3,
         "Overtime": 0,
@@ -26,6 +28,11 @@
         "Company Reputation_Fair": 0,
         "Company Reputation_Good": 0,
         "Company Reputation_Poor": 0,
+        "Employee Recognition_High": 0,
+        "Employee Recognition_Medium": 0,
+        "Employee Recognition_Low": 0,
+        "Employee Recognition_Very High": 1,
         "Happyness": 4,
         "Emotional_Burnout": 0
+    
 }
